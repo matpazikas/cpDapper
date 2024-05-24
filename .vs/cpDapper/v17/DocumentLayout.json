@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mathe\\source\\repos\\cpDapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B062893-A72F-4EA3-91B1-E305F227F649}|cpDapper.csproj|c:\\users\\mathe\\source\\repos\\cpdapper\\cpdapper\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B062893-A72F-4EA3-91B1-E305F227F649}|cpDapper.csproj|solutionrelative:cpdapper\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B062893-A72F-4EA3-91B1-E305F227F649}|cpDapper.csproj|c:\\users\\mathe\\source\\repos\\cpdapper\\cpdapper\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B062893-A72F-4EA3-91B1-E305F227F649}|cpDapper.csproj|solutionrelative:cpdapper\\entidades\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\cpDapper\\cpDapper\\Entidades\\Usuario.cs",
+              "RelativeDocumentMoniker": "cpDapper\\Entidades\\Usuario.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\cpDapper\\cpDapper\\Entidades\\Usuario.cs",
+              "RelativeToolTip": "cpDapper\\Entidades\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T23:25:11.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\mathe\\source\\repos\\cpDapper\\cpDapper\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "cpDapper\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\mathe\\source\\repos\\cpDapper\\cpDapper\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "cpDapper\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwEcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T23:24:54.996Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
